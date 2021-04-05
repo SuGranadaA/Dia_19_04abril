@@ -1,0 +1,2 @@
+La fecha 1 es:14/09/2000
+14/09/2020Las fechas escritas correctamente son: Fecha 1: 2000-09-14Fecha 2: 2007-04-15La fecha 1 actualizada es: 2020-09-14La fecha 2 actualizada es: 2020-04-17La fecha es: 2014-07-24Identificamos fecha en escritura específica: Thursday, 24 de Jul de 2014Identificamos fecha en escritura específica: 24/07/14Día: 24Mes: 7Año: 2014Día número: 3

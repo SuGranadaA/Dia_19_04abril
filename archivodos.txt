@@ -1,0 +1,2 @@
+El contenido del archivo 2 es: 15/04/2007
+17/04/2007Las fechas escritas correctamente son: Fecha 1: 2020-09-14Fecha 2: 2020-04-15¿Cuánto tiempo ha transcurrido desde cada fecha?203 days, 0:00:00355 days, 0:00:00
